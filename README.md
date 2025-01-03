@@ -8,4 +8,4 @@ BAM's weight matrix is symmetric, facilitating the retrieval of the associated o
 - The weighted sum (`y_in`) is computed using a dot product, and the `signum` function applies a step function to determine the output (`y`).
 - The `tester1` function checks if the output matches `target1`, verifying the BAM's performance.
 
-This implementation shows how BAM can retrieve patterns in both directions: input-to-output and output-to-input.
+My implementation shows how BAM can retrieve patterns in both directions: input-to-output and output-to-input.
